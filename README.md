@@ -58,7 +58,3 @@ Welcome to the NewsToDay project! This is a simple news feed implementation, is 
 ## Installation
 
 To get started with the NewsToDay project, follow these steps:
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/glbrom/NewsToDay.git
